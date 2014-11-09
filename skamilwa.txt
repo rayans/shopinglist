@@ -1,1 +1,2 @@
-3  adding a conflict
+
+4  adding a conflict - Adding a conflict in github editor - merging locally
